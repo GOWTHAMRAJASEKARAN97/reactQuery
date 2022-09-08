@@ -1,0 +1,24 @@
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: .9rem;
+    list-style: none;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color:grey;
+    margin:10px;
+}
+a:hover{
+    color:white;
+}
+a:active {
+    color: blue;
+  }
+nav{
+    background-color: black;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}

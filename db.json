@@ -1,0 +1,163 @@
+{
+  "Avengers": [
+    {
+      "id": 1,
+      "name": "Ironman",
+      "realName": "TonyStark"
+    },
+    {
+      "id": 2,
+      "name": "BlackPanther",
+      "realName": "T'Challa"
+    },
+    {
+      "id": 3,
+      "name": "Hulk",
+      "realName": "BruceBanner"
+    },
+    {
+      "id": 4,
+      "name": "Thor",
+      "realName": "Thor"
+    },
+    {
+      "id": 5,
+      "name": "AntMan",
+      "realName": "ScottLang"
+    },
+    {
+      "id": 6,
+      "name": "DoctorStrange",
+      "realName": "StephenStrange"
+    },
+    {
+      "id": 7,
+      "name": "CaptainAmerica",
+      "realName": "SteveJobs"
+    },
+    {
+      "name": "SpiderMan",
+      "realName": "PeterParker",
+      "id": 8
+    },
+    {
+      "name": "ScarletWitch",
+      "realName": "WandaVision",
+      "id": 9
+    },
+    {
+      "name": "SorcererSupreme",
+      "realName": "Wong",
+      "id": 10
+    },
+    {
+      "name": "CaptainMarvel",
+      "realName": "agentCarolDanvers",
+      "id": 11
+    },
+    {
+      "name": "Hawkaye",
+      "realName": "ClintBarton",
+      "id": 12
+    },
+    {
+      "name": "Falcon",
+      "realName": "SamWilson",
+      "id": 13
+    },
+    {
+      "name": "Wasp",
+      "realName": " HopevanDyne",
+      "id": 14
+    },
+    {
+      "name": "FirstAntMan",
+      "realName": "HankPym",
+      "id": 15
+    },
+    {
+      "name": "Ghost",
+      "realName": "AvaStarr",
+      "id": 16
+    },
+    {
+      "name": "BlackWidow",
+      "realName": "NatasaRomanova",
+      "id": 17
+    },
+    {
+      "name": "MSMarvel",
+      "realName": "KamalaKhan",
+      "id": 18
+    },
+    {
+      "name": "WarMachine",
+      "realName": "GenralRody",
+      "id": 19
+    },
+    {
+      "name": "123",
+      "realName": "",
+      "id": 20
+    }
+  ],
+  "Friends": [
+    {
+      "id": 1,
+      "name": "Drags",
+      "realName": "Batista"
+    },
+    {
+      "id": 2,
+      "name": "Groot",
+      "realName": "Vindiesel"
+    },
+    {
+      "id": 3,
+      "name": "Rocket",
+      "realName": "Fox"
+    }
+  ],
+  "users": [
+    {
+      "id": "gowtham@sample.com",
+      "channelId": "AvengersAssemble"
+    }
+  ],
+  "channels": [
+    {
+      "id": "AvengersAssemble",
+      "courses": [
+        "Armour",
+        "Defence",
+        "Unity"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "voilet"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "orange"
+    },
+    {
+      "id": 6,
+      "label": "red"
+    }
+  ]
+}
